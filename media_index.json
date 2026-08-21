@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "items": [
+    { "type": "video", "src": "media/fail1.mp4", "title": "1" },
+    { "type": "video", "src": "media/fail2.mp4", "title": "2" },
+    { "type": "video", "src": "media/fail3.mp4", "title": "3" },
+    { "type": "video", "src": "media/fail4.mp4", "title": "4" },
+    { "type": "video", "src": "media/fail5.mp4", "title": "5" },
+    { "type": "video", "src": "media/fail6.mp4", "title": "6" },
+    { "type": "video", "src": "media/fail7.mp4", "title": "7" },
+    { "type": "video", "src": "media/fail8.mp4", "title": "8" },
+    { "type": "video", "src": "media/fail9.mp4", "title": "9" },
+    { "type": "video", "src": "media/fail10.mp4", "title": "10" },
+    { "type": "video", "src": "media/fail11.mp4", "title": "11" },
+    { "type": "video", "src": "media/fail12.mp4", "title": "12" },
+    { "type": "video", "src": "media/fail13.mp4", "title": "13" },
+    { "type": "video", "src": "media/fail14.mp4", "title": "14" },
+    { "type": "video", "src": "media/fail15.mp4", "title": "15" },
+    { "type": "video", "src": "media/fail16.mp4", "title": "16" },
+    { "type": "video", "src": "media/fail17.mp4", "title": "17" },
+    { "type": "video", "src": "media/fail18.mp4", "title": "18" }
+  ]
+}
