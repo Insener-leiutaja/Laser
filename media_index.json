@@ -1,7 +1,7 @@
 {
   "version": 1,
   "items": [
-    { "type": "video", "src": "media/fail1.webm", "title": "1" },
+    { "type": "video", "src": "media/fail1.mp4", "title": "1" },
     { "type": "video", "src": "media/fail2.mp4", "title": "2" },
     { "type": "video", "src": "media/fail3.mp4", "title": "3" },
     { "type": "video", "src": "media/fail4.mp4", "title": "4" },
