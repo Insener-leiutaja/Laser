@@ -130,6 +130,4 @@ img, video {
   vertical-align:middle;
   opacity:0.85;
 }
-video {
-  transform: scaleX(-1);
-}
+
